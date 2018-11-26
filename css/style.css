@@ -1,0 +1,55 @@
+
+
+#header-nav {
+	background-color: #734d26;
+	border-radius: 0;
+	border: 0;
+}
+#logo-img {
+	background: url('../Images/logo1.jpg') no-repeat;
+	width: 150px;
+	height: 150px;
+	margin: 0;
+}
+#containerNavbar {
+	padding: 0;
+	margin: 0;
+}
+.nav-brand {
+	padding-top:25px;
+	color:#ffffff;
+}
+
+body {
+	font-family:"Niramit", sans-serif;
+}
+
+.nav-brand h1 {
+	line-height: 1;
+	font-size:3em;
+	color: #ffffff;
+	padding-left: 10px;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.nav-brand a:hover {
+	text-decoration:none;
+}
+
+.nav-brand p {/* Restaurant Vietnamien*/
+	font-size: 1.5em;
+	margin-top: 15px;
+
+}
+#nav-list a {
+	color: #ffffff;
+	text-align: center;
+}
+#nav-list a:hover {
+	background:#ffffff;
+	color: #cc0099;
+
+}
